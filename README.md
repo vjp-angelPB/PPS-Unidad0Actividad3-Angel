@@ -3,7 +3,7 @@
 
 Aquí tienes los diversos enlaces para los pasos de la actividad:
 
-* [GitHub]()
-* [GitLab]()
-* [Install]()
-* [UsoGit]()
+* [GitHub](GitHub.md)
+* [GitLab](GitLab.md)
+* [Install](Install.md)
+* [UsoGit](UsoGit.md)
