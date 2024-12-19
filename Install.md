@@ -22,7 +22,7 @@ Para realizar la actividad te sugiero que sigas el documento de Victor Ponz que 
 
 1. Abre una cuenta en Github.com con tu cuenta de @informatica.iesvalledeljerteplasencia.es.
 
-![](/uploads/Captura30.png)
+![](/Images/Captura30.png)
 
 2. Instala git y php en tu equipo.
 
@@ -40,13 +40,13 @@ Recuerda que tienes que crear una clave y añadirla en git puedes consultar ést
  
 #### Primero creamos la clave:
 
-![](/uploads/Captura31.png)
+![](/Images/Captura31.png)
 
 #### Configuramos el SSH:
 
 Entramos en la ruta __".ssh/"__ y editamos el fichero config.
 
-![](/uploads/C20.png)
+![](/Images/C20.png)
 
 #### Subir clave pública al servidor
 
@@ -54,11 +54,11 @@ Para ello iniciamos sesión y entramos a la sección Settings pinchando en nuest
 
 Dentro debemos pulsar en New SSH Key, para subir nuestra nueva clave:
 
-![](/uploads/Captura33.png)
+![](/Images/Captura33.png)
 
 #### Obtener dirección SSH del repositorio y clonar repositorio con SSH
 
-![](/uploads/C21.png)
+![](/Images/C21.png)
 
  
 ### Contenidos del repositorio
@@ -67,26 +67,26 @@ El repositorio deberá de contener al menos los siguientes archivos y carpetas:
 
 - Carpeta "Images" con las imágenes y capturas que aparecen el los ficheros.md
 
-![](/uploads/C22.png)
+![](/Images/C22.png)
 
 - README.md donde se incluirá una introducción.
 
 Tendrá enlaces al resto de los archivos .md del repositorio.
 
-![](/uploads/C23.png)
+![](/Images/C23.png)
 
 - Install.md donde se explicará el proceso de instalación y configuración de Git en nuestro equipo local.
 
-![](/uploads/C3.png)
+![](/Images/C3.png)
 
 - UsoGit.md donde indicaremos los comandos principales que usamos en Git.
 
-![](/uploads/C24.png)
+![](/Images/C24.png)
 
 - GitHub.md donde explicaremos el proceso de apertura de cuenta, login y funcionamiento básico de la plataforma github.com (deberemos de crear cuenta o utilizar una asociada al correo del centro).
 
-![](/uploads/C26.png)
+![](/Images/C26.png)
 
-![](/uploads/C27.png)
+![](/Images/C27.png)
 
 > Ángel Pérez BLanco
